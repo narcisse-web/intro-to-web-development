@@ -122,23 +122,23 @@ footer {
 /*My Goals*/
 
 .goal{
-  background: rgb(78, 78, 78);
+  background: #D9D9D9;
   text-align: center;
   height: 388px;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  color:rgb(245, 248, 250);
+ 
 }
 .goal h3 {
   font-size: 32px;
-  color: #333232;
+  color: #000000;
   padding-top: 20px;
   padding-bottom: 30px;
 }
 .goal p{
-  color: #333232;
+  color: #000000;
   font-size: 18px;
   text-align: center;
   line-height: 1.5;
