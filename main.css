@@ -96,7 +96,7 @@ footer {
 /*About me*/
 
 .about {
-  background: rgb(239, 237, 237);
+  background: #FFFFFF;
   text-align: center;
   height: 388px;
   display: flex;
@@ -106,12 +106,12 @@ footer {
 }
 .about h3 {
   font-size: 32px;
-  color: #333232;
+  color: #000000;
   padding-top: 20px;
   padding-bottom: 30px;
 }
 .about p{
-  color: #333232;
+  color: #000000;
   font-size: 18px;
   text-align: center;
   line-height: 1.5;
