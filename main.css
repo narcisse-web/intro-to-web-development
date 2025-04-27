@@ -119,16 +119,17 @@ footer {
   height:100px
 }
 
-/*About me*/
+/*My Goals*/
 
-.goal {
-  background: rgb(239, 237, 237);
+.goal{
+  background: rgb(78, 78, 78);
   text-align: center;
   height: 388px;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  color:rgb(245, 248, 250);
 }
 .goal h3 {
   font-size: 32px;
