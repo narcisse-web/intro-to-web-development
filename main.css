@@ -96,7 +96,7 @@ footer {
 /*About me*/
 
 .about {
-  background: white;
+  background: rgb(239, 237, 237);
   text-align: center;
   height: 388px;
   display: flex;
@@ -104,14 +104,43 @@ footer {
   justify-content: center;
   align-items: center;
 }
-.about h2 {
+.about h3 {
   font-size: 32px;
   color: #333232;
-  padding-top: 30px;
+  padding-top: 20px;
+  padding-bottom: 30px;
 }
 .about p{
   color: #333232;
-  font-size: 20px;
+  font-size: 18px;
   text-align: center;
   line-height: 1.5;
+  width:80%;
+  height:100px
+}
+
+/*About me*/
+
+.goal {
+  background: rgb(239, 237, 237);
+  text-align: center;
+  height: 388px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.goal h3 {
+  font-size: 32px;
+  color: #333232;
+  padding-top: 20px;
+  padding-bottom: 30px;
+}
+.goal p{
+  color: #333232;
+  font-size: 18px;
+  text-align: center;
+  line-height: 1.5;
+  width:80%;
+  height:100px
 }
