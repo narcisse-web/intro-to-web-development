@@ -92,3 +92,26 @@ footer {
   padding: 30px;
 }
 /* Write your code below this */
+
+/*About me*/
+
+.about {
+  background: white;
+  text-align: center;
+  height: 388px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.about h2 {
+  font-size: 32px;
+  color: #333232;
+  padding-top: 30px;
+}
+.about p{
+  color: #333232;
+  font-size: 20px;
+  text-align: center;
+  line-height: 1.5;
+}
